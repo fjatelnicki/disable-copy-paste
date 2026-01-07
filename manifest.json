@@ -1,0 +1,10 @@
+{
+	"id": "disable-copy-paste",
+	"name": "Disable Copy Paste",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Disables copy and paste functionality in the editor.",
+	"author": "fjatelnicki",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
